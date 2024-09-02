@@ -236,7 +236,7 @@ details: true // show or hide details btn
 custom_link_label: "Custom btn link label"
 custom_link: "Custom btn link"
 pubDate: "Sep 15 2022"
-pricing: "$15"
+pricing: "$20"
 oldPricing: "$25.5"
 badge: "Featured"
 checkoutUrl: "https://checkouturl.com/"
