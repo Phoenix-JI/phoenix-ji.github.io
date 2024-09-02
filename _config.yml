@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Phoenix JI Xuanjin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Data Scientist ~"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "HKBU -> CUHK"
+  uri              : "images/PP.png"
+  email            : "xuanjinji0107@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
