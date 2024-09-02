@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "PP.png"
   name             : "Phoenix JI Xuanjin"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist ~"
   location         : "Earth"
   employer         : "HKBU -> CUHK"
-  uri              : "PP.png"
+  uri              : https://phoenix-ji.github.io
   email            : "xuanjinji0107@gmail.com" 
 
   # Academic websites
