@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist ~"
   location         : "Earth"
-  employer         : "HKBU -> CUHK"
-  uri              : #https://phoenix-ji.github.io
+  employer         : "HKBU & CUHK"
+  #uri              : "https://phoenix-ji.github.io"
   email            : "xuanjinji0107@gmail.com" 
 
   # Academic websites
