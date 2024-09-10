@@ -19,20 +19,18 @@ I am based on Toronto now and looking for the data/tech/analyst/product/ESG oppo
 
 Working on building the ESG data science products
 
-### Data Scientist 
-Jan 2024 - Sep 2024
-### Junior Data Scientist 
-Nov 2022 - Dec 2023
+### Data Scientist               Jan 2024 - Sep 2024
+### Junior Data Scientist        Nov 2022 - Dec 2023
 
 ## Hong Kong Applied Science and Technology Research Institute
 
-### Engineer(PI)
-Sep 2022 - Nov 2022
+Working on implementing several ML projects
+
+### Engineer(PI)                 Sep 2022 - Nov 2022
 ======
 
 ## The Bank of East Asia Limited
-### Project Assistant (One-year placement program)
-Aug 2018 - June 2019
+### Project Assistant (One-year placement program)        Aug 2018 - June 2019
 
 
 # Research Experience
