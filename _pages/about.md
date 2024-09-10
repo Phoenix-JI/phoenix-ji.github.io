@@ -16,19 +16,21 @@ I am based on Toronto now and looking for the data/tech/analyst/product/ESG oppo
 
 ## LRQA Group Limited
 
-Working on building the ESG data science products
-
 ### Data Scientist               Jan 2024 - Sep 2024
 ### Junior Data Scientist        Nov 2022 - Dec 2023
 
-## Hong Kong Applied Science and Technology Research Institute
+Working on building the ESG data science products
 
-Working on implementing several ML projects
+## Hong Kong Applied Science and Technology Research Institute
 
 ### Engineer(PI)                 Sep 2022 - Nov 2022
 
+Working on implementing several ML projects
+
 ## The Bank of East Asia Limited
 ### Project Assistant (One-year placement program)        Aug 2018 - June 2019
+
+Working on building the RPA & BI applications
 
 
 # Research Experience
@@ -38,10 +40,15 @@ Working on implementing several ML projects
 
 ### Part-time Research Assistant Mar 2023 - Aug 2024
 
+Engaged in multiple research projects focused on data-driven business management and strategy
 
-Research Experience
+
+# Education
 ======
 
+## Master of Science in Computer Science                  Sep 2021 - Aug 2022
+### The Chinese University of Hong Kong       
 
-Education
-======
+## Bachelor (Hons.) of Science in Computer Science        Sep 2016 - Aug 2021
+### Hong Kong Baptist University               
+
