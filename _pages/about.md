@@ -11,6 +11,7 @@ Greetings! Welcome to my personal webpage. I'm Phoenix JI, a data scientist with
 
 I am based on Toronto now and looking for the data/tech/analyst/product/ESG opportunity in Canada. Feel free to reach out me if you'd like to connect !!!
 
+<br>
 
 # Professional Experience
 <br>
@@ -36,7 +37,7 @@ Engineer(PI)
 
 ## The Bank of East Asia Limited
 
-Project Assistant (One-year placement program) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Project Assistant (One-year placement program) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *Aug 2018 - June 2019*
 
 <br>
@@ -47,7 +48,7 @@ Project Assistant (One-year placement program) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 ## Department of Management, The Chinese University of Hong Kong
 
 Part-time Research Assistant
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *Mar 2023 - Aug 2024*
 
 <br>
