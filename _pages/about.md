@@ -13,7 +13,6 @@ I am based on Toronto now and looking for the data/tech/analyst/product/ESG oppo
 
 
 # Professional Experience
-======
 
 ## LRQA Group Limited
 
@@ -27,7 +26,6 @@ Working on building the ESG data science products
 Working on implementing several ML projects
 
 ### Engineer(PI)                 Sep 2022 - Nov 2022
-======
 
 ## The Bank of East Asia Limited
 ### Project Assistant (One-year placement program)        Aug 2018 - June 2019
