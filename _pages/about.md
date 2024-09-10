@@ -12,40 +12,34 @@ Greetings! Welcome to my personal webpage. I'm Phoenix JI, a data scientist with
 I am based on Toronto now and looking for the data/tech/analyst/product/ESG opportunity in Canada. Feel free to reach out me if you'd like to connect !!!
 
 
-# Professional Experience
-
-| Position             | Dates              |
-|----------------------|--------------------|
-| Data Scientist       | Jan 2024 - Sep 2024|
-| Junior Data Scientist| Nov 2022 - Dec 2023|
 
 ## LRQA Group Limited
 
-### Data Scientist               Jan 2024 - Sep 2024
-### Junior Data Scientist        Nov 2022 - Dec 2023
+**Data Scientist**               Jan 2024 - Sep 2024
+**Junior Data Scientist**        Nov 2022 - Dec 2023
 
 
 ## Hong Kong Applied Science and Technology Research Institute
 
-### Engineer(PI)                 Sep 2022 - Nov 2022
+Engineer(PI)                 Sep 2022 - Nov 2022
 
 
 ## The Bank of East Asia Limited
-### Project Assistant (One-year placement program)        Aug 2018 - June 2019
+Project Assistant (One-year placement program)        Aug 2018 - June 2019
 
 
 # Research Experience
 
 ## Department of Management, The Chinese University of Hong Kong
 
-### Part-time Research Assistant Mar 2023 - Aug 2024
+Part-time Research Assistant Mar 2023 - Aug 2024
 
 
 # Education
 
 ## Master of Science in Computer Science                  Sep 2021 - Aug 2022
-### The Chinese University of Hong Kong       
+The Chinese University of Hong Kong       
 
 ## Bachelor (Hons.) of Science in Computer Science        Sep 2016 - Aug 2021
-### Hong Kong Baptist University               
+Hong Kong Baptist University               
 
