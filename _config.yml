@@ -21,7 +21,7 @@ repository               : "Phoenix-JI/phoenix-ji.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PP.png"
+  avatar           : "Phoenix_JI.png" #"PP.png"
   name             : "Phoenix JI Xuanjin"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist ~"
