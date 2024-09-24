@@ -9,7 +9,7 @@ redirect_from:
 
 Greetings! Welcome to my personal webpage. I'm Phoenix JI, a data scientist with a love for creating impactful data solutions. With almost three years in the industry and over one year of academic research experience. I've worked on projects ranging from banking applications to the ESG data products. In my free time, I enjoy hiking and music (Landlord's Cats). 
 
-I am based on Toronto now and looking for the data/tech/analyst/developer/AI/ESG opportunity in Canada. Feel free to reach out me if you'd like to connect !!!
+I am looking for the data/tech/analyst/developer/AI/ESG opportunity. Feel free to reach out me if you'd like to connect !!!
 <br>
 <br>
 # Professional Experience
